@@ -2,7 +2,7 @@
 
 ## System Architecture
 
-[Describe the overall architecture of your system. Replace the Mermaid diagram below with your actual architecture.]
+Describe the overall architecture of your system. Replace the Mermaid diagram below with your actual architecture.
 
 ```mermaid
 graph TD
@@ -18,11 +18,9 @@ graph TD
 
 | Component | Technology | Responsibility |
 |---|---|---|
-| Frontend | [e.g., React 18] | [e.g., Dashboard UI, user interaction] |
-| Backend API | [e.g., FastAPI] | [e.g., Business logic, orchestration] |
-| AI / ML | [e.g., watsonx.ai] | [e.g., Anomaly scoring, classification] |
-| Database | [e.g., PostgreSQL] | [e.g., Storing pipeline events and scores] |
-| Notifications | [e.g., Slack API] | [e.g., Alerting on threshold breaches] |
+| Frontend |  Streamlite] | e.g., Dashboard UI, user interaction |
+| Backend API | Python json | e.g.,  logic, orchestration |
+| AI / ML | IBM Bob | e.g., Anomaly scoring, classification |
 
 ## Data Flow
 
