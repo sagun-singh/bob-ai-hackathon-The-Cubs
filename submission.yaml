@@ -48,12 +48,12 @@ submission:
     other: []                          # e.g., ["Docker", "GitHub Actions", "Slack API"]
 
   what_we_are_most_proud_of: >         # Optional but recommended — guides judges to your best work
-    Replace with what aspect of the submission you consider strongest
-    and want judges to pay special attention to.
+    Our AI-powered FIR analysis pipeline can automatically classify crimes, extract important entities, and identify similar crime 
+    patterns across multiple FIRs. The repeat-offender detection and concise crime summary make complex FIR data easier to understand.
 
   known_limitations: >                 # Optional but recommended — be honest about gaps
-    Replace with any known limitations, incomplete features,
-    or shortcuts taken due to time constraints.
+    The prototype uses a limited set of mock FIR data due to the 6-hour hackathon constraint. Pattern detection is based on text 
+    similarity and AI-generated extraction, so results should be treated as decision-support insights rather than confirmed accusations.
 
 # =============================================================================
 # ARTIFACT LOCATIONS
