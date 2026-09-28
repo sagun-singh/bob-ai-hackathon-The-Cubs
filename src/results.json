@@ -1,0 +1,317 @@
+[
+  {
+    "id": "FIR-001",
+    "crime_type": "chain snatching",
+    "date": "5 September",
+    "location": "Bengaluru",
+    "suspect_description": "suspects approached her from behind; on the motorcycle",
+    "modus_operandi": "One of them snatched her gold chain before both suspects fled on the motorcycle.",
+    "victim_profile": {
+      "name": "unknown",
+      "age": "unknown",
+      "gender": "Female",
+      "occupation": "Police",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-002",
+    "crime_type": "chain snatching",
+    "date": "7 September",
+    "location": "Dehradun",
+    "suspect_description": "unknown",
+    "modus_operandi": "During the interaction, he suddenly snatched her chain and fled from the location.",
+    "victim_profile": {
+      "name": "unknown",
+      "age": "unknown",
+      "gender": "Female",
+      "occupation": "Police",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-003",
+    "crime_type": "cyber fraud",
+    "date": "8 September",
+    "location": "Delhi",
+    "suspect_description": "accused offered a fake job opportunity and demanded an upfront registration or training fee",
+    "modus_operandi": "The accused offered a fake job opportunity and demanded an upfront registration or training fee.",
+    "victim_profile": {
+      "name": "unknown",
+      "age": "unknown",
+      "gender": "Male",
+      "occupation": "Job Seeker",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-004",
+    "crime_type": "cyber fraud",
+    "date": "9 September",
+    "location": "Mumbai",
+    "suspect_description": "unknown",
+    "modus_operandi": "The victim was asked to pay an upfront fee and was provided access to a fake work platform.",
+    "victim_profile": {
+      "name": "unknown",
+      "age": "unknown",
+      "gender": "Male",
+      "occupation": "Job Seeker",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-005",
+    "crime_type": "cyber fraud",
+    "date": "10 September",
+    "location": "Pune",
+    "suspect_description": "unknown",
+    "modus_operandi": "On 10 September, a bank customer in Pune received a communication from a person impersonating a bank representative.",
+    "victim_profile": {
+      "name": "unknown",
+      "age": "unknown",
+      "gender": "unknown",
+      "occupation": "unknown",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-006",
+    "crime_type": "cyber fraud",
+    "date": "11 September",
+    "location": "Hyderabad",
+    "suspect_description": "accused demanded additional payments",
+    "modus_operandi": "The group administrators collected multiple payments from the victim and later blocked the withdrawal of the supposed profits.",
+    "victim_profile": {
+      "name": "unknown",
+      "age": "unknown",
+      "gender": "Male",
+      "occupation": "unknown",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-007",
+    "crime_type": "theft",
+    "date": "12 September",
+    "location": "Mumbai",
+    "suspect_description": "unknown",
+    "modus_operandi": "On 12 September, a passenger travelling on public transport in Mumbai discovered that their mobile phone had been stolen while travelling through a crowded area.",
+    "victim_profile": {
+      "name": "unknown",
+      "age": "unknown",
+      "gender": "unknown",
+      "occupation": "Police",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-008",
+    "crime_type": "burglary",
+    "date": "13 September",
+    "location": "Bengaluru",
+    "suspect_description": "unknown",
+    "modus_operandi": "unknown",
+    "victim_profile": {
+      "name": "unknown",
+      "age": "unknown",
+      "gender": "unknown",
+      "occupation": "unknown",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-009",
+    "crime_type": "chain snatching",
+    "date": "16 September",
+    "location": "Bengaluru",
+    "suspect_description": "on the motorcycle",
+    "modus_operandi": "The rider, whose face was partially covered, came close to the woman and snatched her gold chain before fleeing on the motorcycle.",
+    "victim_profile": {
+      "name": "unknown",
+      "age": "unknown",
+      "gender": "Female",
+      "occupation": "unknown",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-010",
+    "crime_type": "cyber fraud",
+    "date": "17 September",
+    "location": "Ahmedabad",
+    "suspect_description": "unknown",
+    "modus_operandi": "On 17 September, a graduate seeking employment in Ahmedabad received an offer for a work-from-home job from a person posing as an online recruiter.",
+    "victim_profile": {
+      "name": "unknown",
+      "age": "unknown",
+      "gender": "Male",
+      "occupation": "unknown",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-011",
+    "crime_type": "kidnapping",
+    "date": "18 September",
+    "location": "Pune",
+    "suspect_description": "suspected of stealing the parked two-wheeler, and the incident was reported to the police",
+    "modus_operandi": "unknown",
+    "victim_profile": {
+      "name": "unknown",
+      "age": "unknown",
+      "gender": "unknown",
+      "occupation": "Student",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-012",
+    "crime_type": "cyber fraud",
+    "date": "19 September",
+    "location": "Lucknow",
+    "suspect_description": "accused used intimidation and claimed that the victim was involved in a serious matter",
+    "modus_operandi": "unknown",
+    "victim_profile": {
+      "name": "unknown",
+      "age": "unknown",
+      "gender": "Male",
+      "occupation": "unknown",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-013",
+    "crime_type": "cyber fraud",
+    "date": "20 September",
+    "location": "Nagpur",
+    "suspect_description": "unknown",
+    "modus_operandi": "On 20 September, an electricity consumer in Nagpur received a message claiming that an unpaid utility bill would result in immediate service action.",
+    "victim_profile": {
+      "name": "unknown",
+      "age": "unknown",
+      "gender": "Male",
+      "occupation": "unknown",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-014",
+    "crime_type": "cyber fraud",
+    "date": "21 September",
+    "location": "Jaipur",
+    "suspect_description": "unknown",
+    "modus_operandi": "unknown",
+    "victim_profile": {
+      "name": "unknown",
+      "age": "unknown",
+      "gender": "Male",
+      "occupation": "unknown",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-015",
+    "crime_type": "cyber fraud",
+    "date": "22 September",
+    "location": "Chennai",
+    "suspect_description": "unknown",
+    "modus_operandi": "When the victim attempted to withdraw the money, the operators demanded additional payments before allowing the withdrawal.",
+    "victim_profile": {
+      "name": "unknown",
+      "age": "unknown",
+      "gender": "Male",
+      "occupation": "unknown",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-016",
+    "crime_type": "chain snatching",
+    "date": "4 March",
+    "location": "unknown",
+    "suspect_description": "two men on a black Pulsar motorcycle came from behind; pillion rider, wearing a red helmet, snatched her gold chain and both suspects fled towards the highway",
+    "modus_operandi": "The pillion rider, wearing a red helmet, snatched her gold chain and both suspects fled towards the highway.",
+    "victim_profile": {
+      "name": "unknown",
+      "age": 25,
+      "gender": "Female",
+      "occupation": "unknown",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-017",
+    "crime_type": "kidnapping",
+    "date": "6 March",
+    "location": "unknown",
+    "suspect_description": "unknown",
+    "modus_operandi": "unknown",
+    "victim_profile": {
+      "name": "Rakesh Shah reported that his shop shutter was found broken at about",
+      "age": "unknown",
+      "gender": "Male",
+      "occupation": "unknown",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-018",
+    "crime_type": "cyber fraud",
+    "date": "8 March",
+    "location": "unknown",
+    "suspect_description": "unknown",
+    "modus_operandi": "She was asked to pay a registration fee of Rs 2,500 to a UPI ID.",
+    "victim_profile": {
+      "name": "unknown",
+      "age": "unknown",
+      "gender": "Female",
+      "occupation": "unknown",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-019",
+    "crime_type": "chain snatching",
+    "date": "12 March",
+    "location": "Sector 21 market in Gandhinagar",
+    "suspect_description": "Two men on a black motorcycle came from behind, and the pillion rider, wearing a red he",
+    "modus_operandi": "Two men on a black motorcycle came from behind, and the pillion rider, wearing a red helmet, snatched her gold chain before the motorcycle sped away towards the highway.",
+    "victim_profile": {
+      "name": "Ms",
+      "age": 52,
+      "gender": "Female",
+      "occupation": "Police",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-020",
+    "crime_type": "cyber fraud",
+    "date": "3 April",
+    "location": "Surat",
+    "suspect_description": "unknown",
+    "modus_operandi": "After the payment was made, the recruiter blocked the victim's number and the company website stopped working.",
+    "victim_profile": {
+      "name": "unknown",
+      "age": "unknown",
+      "gender": "Male",
+      "occupation": "Job Seeker",
+      "contact": "unknown"
+    }
+  },
+  {
+    "id": "FIR-021",
+    "crime_type": "chain snatching",
+    "date": "27 March",
+    "location": "Navrangpura in Ahmedabad",
+    "suspect_description": "Two youths on a dark-coloured motorcycle approached her from behind; pillion rider, wearing a red helmet, pulled off her gold mangalsutra before both",
+    "modus_operandi": "The pillion rider, wearing a red helmet, pulled off her gold mangalsutra before both suspects fled towards the ring road.",
+    "victim_profile": {
+      "name": "Mrs",
+      "age": 48,
+      "gender": "Female",
+      "occupation": "Police",
+      "contact": "unknown"
+    }
+  }
+]
