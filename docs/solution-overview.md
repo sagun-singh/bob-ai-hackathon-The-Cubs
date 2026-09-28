@@ -2,16 +2,16 @@
 
 ## What We Built
 
-[Describe your solution in plain language. Avoid jargon — write as if explaining to a smart colleague unfamiliar with your tech stack.]
+[We built an AI-powered intelligence tool that automatically reads batches of police FIR text reports. The application categorizes the crime type, extracts key details like names, locations, and methods used, and automatically connects similar cases across different districts to flag repeat offenders, helping officers solve crimes faster.]
 
 ## How It Works
 
 [Explain the core mechanism step by step. A numbered list or simple flow works well here.]
 
-1. [Step 1: e.g., "User connects their GitHub repository via OAuth"]
-2. [Step 2: e.g., "The system ingests pipeline logs and feeds them to watsonx.ai"]
-3. [Step 3: e.g., "An anomaly score is computed and displayed on the dashboard"]
-4. [Step 4: e.g., "Alerts are sent to Slack when the score exceeds a threshold"]
+1. [Upload FIR Batch: Officers upload a batch of unstructured FIR text documents or reports into the system.]
+2. [AI Analysis & Extraction: Bob ingests the text, automatically categorizes the crime type, and extracts key entities like suspects, locations, modus operandi (MO), and victim profiles.]
+3. [Pattern & Repeat Detection: The system compares the new data across all records to uncover hidden connections between cases from different districts and flags repeat-offender signatures]
+4. [Summary & Insights: A station-level crime trend summary table and a highlighted list of repeat offenders are instantly displayed on the dashboard for officers to review.]
 
 ## Architecture Diagram
 
