@@ -6,12 +6,12 @@
 
 ```mermaid
 graph TD
-    A[User / Browser] -->|HTTP| B[Frontend - React]
-    B -->|REST API| C[Backend - FastAPI]
-    C -->|SDK| D[watsonx.ai]
-    C -->|Query| E[PostgreSQL]
-    C -->|Publish| F[Slack Webhook]
-    D -->|Inference Result| C
+    A[User / Police Officer] -->|Uploads FIR Batch| B[Frontend: React Dashboard]
+    B -->|API Request| C[Backend: FastAPI]
+    C -->|Extracts & Processes Entities| D[Bob NLP Engine / watsonx.ai]
+    D -->|Stores / Queries Relational Data| E[(PostgreSQL DB)]
+    E -->|Returns Trends & Repeat Offenders| C
+    C -->|Renders Table & Flags| B
 ```
 
 ## Components
