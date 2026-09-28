@@ -10,17 +10,17 @@
 
 team:
   name: "The Cubs"                             # REQUIRED — e.g., "Orion Squad"
-  track: ""                            # REQUIRED — one of: AI | DevOps | Sustainability | Open
+  track: "AI & Predictive"                            # REQUIRED — one of: AI | DevOps | Sustainability | Open
   lead:
     name: "Sagun Singh"                           # REQUIRED — e.g., "Alice Chen"
-    email: ""                          # REQUIRED — e.g., "alice.chen@ibm.com"
+    email: "sagunsingh861@gmail.com"                          # REQUIRED — e.g., "alice.chen@ibm.com"
   members:
     - name: "Sanjeevani"                         # REQUIRED — Team member 1
       email: "sanjeevani.sawalker@gmail.com"
     - name: "Shweta Rekha Nayak"                         # Add more members by copying the two lines above
-      email: ""
+      email: "shwetarekhanayak19@gmail.com"
     - name: "Kanishka Mina"
-      email: ""
+      email: "kanishkamina13@gmail.com"
 
 submission:
   title: "FIR Intelligence & Crime Pattern Detector"                        # REQUIRED — Project display name, e.g., "SmartOps Dashboard"
@@ -35,16 +35,15 @@ submission:
    patterns, and generates a station-level summary with flagged repeat-offender signatures.
 
   key_features:                        # REQUIRED — List 3 to 5 specific features you implemented
-    - "AI-powered FIR classification using watsonx.ai"                     # e.g., "Real-time pipeline anomaly detection using watsonx.ai"
-    - "Automatic extraction of accused, location, MO and victim details"
+    - "Automatic extraction of accused, location, MO and victim details"  # e.g., "Real-time pipeline anomaly detection using watsonx.ai"
     - "Repeat-offender pattern detection using text similarity"
-    - "Automated crime trend analysis and station-level summaries"         # optional 4th
-    - "Interactive dashboard for FIR insights and flagged crime patterns"  # optional 5th
+    - "Automated crime trend analysis and station-level summaries"
+    - "Interactive dashboard for FIR insights and flagged crime patterns"  # optional 4th
 
   tech_stack:
-    languages: ["Python"]                      # REQUIRED — e.g., ["Python", "TypeScript"]
+    languages: ["Python","json"]                      # REQUIRED — e.g., ["Python", "TypeScript"]
     frameworks: []                     # e.g., ["FastAPI", "React"]
-    ibm_technologies: []               # e.g., ["watsonx.ai", "IBM Bob", "IBM Cloud Functions"]
+    ibm_technologies: ["IBM Bob"]               # e.g., ["watsonx.ai", "IBM Bob", "IBM Cloud Functions"]
     databases: []                      # e.g., ["PostgreSQL", "Redis"]
     other: []                          # e.g., ["Docker", "GitHub Actions", "Slack API"]
 
