@@ -1,4 +1,4 @@
-# 🚀 [Your Project Title Here]
+# 🚀 [FIR Intelligence & Crime Pattern Detector]
 
 > ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
 
@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
+| **Team Name** | [The Cubs] |
 | **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Team Lead** | [Sagun Singh] — [email@ibm.com] |
+| **Members** | [Sanjeevani], [Shweta Rekha Nayak], [Kanishka Mina] |
 
 ---
 
@@ -19,7 +19,7 @@
 
 > In 2–3 sentences: What problem does your project solve? Who experiences this problem?
 
-[Describe the real-world problem your project addresses. Be specific about who the user is and what pain point they face.]
+[Police FIRs are often stored as unstructured text, making it difficult to identify similar crimes and repeat-offender patterns efficiently. The proposed system uses AI to analyze mock FIRs, classify crimes, extract key details, and detect repeated crime patterns.]
 
 ---
 
@@ -27,17 +27,17 @@
 
 > In 2–3 sentences: What did you build? How does it solve the problem above?
 
-[Describe your solution clearly. Explain the core mechanism — what makes it work.]
+[An AI-powered FIR Intelligence tool that processes multiple FIRs, identifies crime types and important entities, compares crime patterns, and generates a station-level summary with flagged repeat-offender signatures.]
 
 ---
 
 ## ✨ Key Features
 
-- **Feature 1:** [Brief description — e.g., "Real-time anomaly detection using watsonx.ai"]
-- **Feature 2:** [Brief description]
-- **Feature 3:** [Brief description]
-- **Feature 4:** [Optional]
-- **Feature 5:** [Optional]
+- **Feature 1:** [AI-powered FIR classification using watsonx.ai]
+- **Feature 2:** [Automatic extraction of accused, location, MO and victim details]
+- **Feature 3:** [Repeat-offender pattern detection using text similarity]
+- **Feature 4:** [Automated crime trend analysis and station-level summaries]
+- **Feature 5:** [Interactive dashboard for FIR insights and flagged crime patterns]
 
 ---
 
@@ -45,7 +45,7 @@
 
 | Category | Technologies |
 |---|---|
-| **Languages** | [e.g., Python, TypeScript] |
+| **Languages** | [Python] |
 | **Frameworks** | [e.g., FastAPI, React] |
 | **IBM Technologies** | [e.g., watsonx.ai, IBM Bob, IBM Cloud] |
 | **Databases** | [e.g., PostgreSQL, Redis] |
