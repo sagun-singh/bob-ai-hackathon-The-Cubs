@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [The Cubs] |
-| **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Sagun Singh] — [email@ibm.com] |
-| **Members** | [Sanjeevani], [Shweta Rekha Nayak], [Kanishka Mina] |
+| **Team Name** | The Cubs |
+| **Track** | AI & Predictive |
+| **Team Lead** | Sagun Singh — sagunsingh861@gmail.com |
+| **Members** | Sanjeevani, Shweta Rekha Nayak, Kanishka Mina |
 
 ---
 
@@ -19,7 +19,7 @@
 
 > In 2–3 sentences: What problem does your project solve? Who experiences this problem?
 
-[Police FIRs are often stored as unstructured text, making it difficult to identify similar crimes and repeat-offender patterns efficiently. The proposed system uses AI to analyze mock FIRs, classify crimes, extract key details, and detect repeated crime patterns.]
+Police FIRs are often stored as unstructured text, making it difficult to identify similar crimes and repeat-offender patterns efficiently. The proposed system uses AI to analyze mock FIRs, classify crimes, extract key details, and detect repeated crime patterns.
 
 ---
 
@@ -27,17 +27,16 @@
 
 > In 2–3 sentences: What did you build? How does it solve the problem above?
 
-[An AI-powered FIR Intelligence tool that processes multiple FIRs, identifies crime types and important entities, compares crime patterns, and generates a station-level summary with flagged repeat-offender signatures.]
+An AI-powered FIR Intelligence tool that processes multiple FIRs, identifies crime types and important entities, compares crime patterns, and generates a station-level summary with flagged repeat-offender signatures.
 
 ---
 
 ## ✨ Key Features
 
-- **Feature 1:** [AI-powered FIR classification using watsonx.ai]
-- **Feature 2:** [Automatic extraction of accused, location, MO and victim details]
-- **Feature 3:** [Repeat-offender pattern detection using text similarity]
-- **Feature 4:** [Automated crime trend analysis and station-level summaries]
-- **Feature 5:** [Interactive dashboard for FIR insights and flagged crime patterns]
+- **Feature 1:** Automatic extraction of accused, location, MO and victim details
+- **Feature 2:** Repeat-offender pattern detection using text similarity
+- **Feature 3:** Automated crime trend analysis and station-level summaries
+- **Feature 4:** Interactive dashboard for FIR insights and flagged crime patterns
 
 ---
 
@@ -45,9 +44,9 @@
 
 | Category | Technologies |
 |---|---|
-| **Languages** | [Python] |
+| **Languages** | Python |
 | **Frameworks** | [e.g., FastAPI, React] |
-| **IBM Technologies** | [e.g., watsonx.ai, IBM Bob, IBM Cloud] |
+| **IBM Technologies** | IBM Bob |
 | **Databases** | [e.g., PostgreSQL, Redis] |
 | **Other** | [e.g., Docker, GitHub Actions] |
 
