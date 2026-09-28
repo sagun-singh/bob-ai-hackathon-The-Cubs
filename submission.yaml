@@ -42,7 +42,7 @@ submission:
 
   tech_stack:
     languages: ["Python","json"]                      # REQUIRED — e.g., ["Python", "TypeScript"]
-    frameworks: []                     # e.g., ["FastAPI", "React"]
+    frameworks: ["Streamlit"]                     # e.g., ["FastAPI", "React"]
     ibm_technologies: ["IBM Bob"]               # e.g., ["watsonx.ai", "IBM Bob", "IBM Cloud Functions"]
     databases: []                      # e.g., ["PostgreSQL", "Redis"]
     other: []                          # e.g., ["Docker", "GitHub Actions", "Slack API"]
