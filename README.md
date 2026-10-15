@@ -1,7 +1,5 @@
 # 🚀 [FIR Intelligence & Crime Pattern Detector]
 
-> ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
-
 ---
 
 ## 👥 Team
@@ -10,14 +8,14 @@
 |---|---|
 | **Team Name** | The Cubs |
 | **Track** | AI & Predictive |
-| **Team Lead** | Sagun Singh — sagunsingh861@gmail.com |
+| **Team Lead** | Sagun Singh |
 | **Members** | Sanjeevani, Shweta Rekha Nayak, Kanishka Mina |
 
 ---
 
 ## 🎯 Problem Statement
 
-> In 2–3 sentences: What problem does your project solve? Who experiences this problem?
+> What problem does our project solve? Who experiences this problem?
 
 Police FIRs are often stored as unstructured text, making it difficult to identify similar crimes and repeat-offender patterns efficiently. The proposed system uses AI to analyze mock FIRs, classify crimes, extract key details, and detect repeated crime patterns.
 
@@ -25,7 +23,7 @@ Police FIRs are often stored as unstructured text, making it difficult to identi
 
 ## 💡 Solution
 
-> In 2–3 sentences: What did you build? How does it solve the problem above?
+> What did we build? How does it solve the problem above?
 
 An AI-powered FIR Intelligence tool that processes multiple FIRs, identifies crime types and important entities, compares crime patterns, and generates a station-level summary with flagged repeat-offender signatures.
 
@@ -45,10 +43,7 @@ An AI-powered FIR Intelligence tool that processes multiple FIRs, identifies cri
 | Category | Technologies |
 |---|---|
 | **Languages** | Python |
-| **Frameworks** | [e.g., FastAPI, React] |
 | **IBM Technologies** | IBM Bob |
-| **Databases** | [e.g., PostgreSQL, Redis] |
-| **Other** | [e.g., Docker, GitHub Actions] |
 
 ---
 
@@ -67,31 +62,6 @@ An AI-powered FIR Intelligence tool that processes multiple FIRs, identifies cri
 ├── presentation/         # Slide deck
 └── submission.yaml       # Structured submission metadata
 ```
-
----
-
-## ⚡ How to Run
-
-> **Copy these exact steps from your [`docs/setup-guide.md`](docs/setup-guide.md)**
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/[your-repo].git
-cd [your-repo]
-
-# 2. Install dependencies
-[your install command here]
-
-# 3. Configure environment
-cp .env.example .env
-# Edit .env with your values
-
-# 4. Run the project
-[your run command here]
-```
-
----
-
 ## 🖥️ Demo
 
 | Artifact | Link |
@@ -101,20 +71,3 @@ cp .env.example .env
 | 🖼️ Screenshots | [See demo/screenshots/](demo/screenshots/) |
 | 📊 Presentation | [See presentation/slides.pdf](presentation/) |
 
----
-
-## ⚠️ Known Limitations
-
-> Be honest — judges appreciate transparency over overclaiming.
-
-- [Limitation 1: e.g., "Authentication is mocked — not production-ready"]
-- [Limitation 2: e.g., "Only tested on Chrome"]
-- [Limitation 3: e.g., "Feature X is scaffolded but not fully implemented"]
-
----
-
-## 🏅 What We're Most Proud Of
-
-[Tell the judges what part of your submission is strongest and worth paying close attention to.]
-
----
